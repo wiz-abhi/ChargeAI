@@ -41,6 +41,7 @@
     "autoprefixer": "^10.4.20",
     "axios": "latest",
     "class-variance-authority": "^0.7.1",
+    "clerk": "^0.8.3",
     "clsx": "^2.1.1",
     "cmdk": "1.0.4",
     "crypto": "latest",
